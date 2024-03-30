@@ -1,0 +1,77 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <!-- Render president -->
+        {{ range where .RegularPages "Params.description" "President" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+
+        <!-- Render vice president -->
+        {{ range where .RegularPages "Params.description" "Vice President" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+
+           <!-- Render general secretary -->
+           {{ range where .RegularPages "Params.description" "General Secretary" }}
+           <div class="md:col-6 lg:col-4 mb-14">
+             {{ partial "components/author-card" . }}
+           </div>
+         {{ end }}
+ 
+          <!-- Render club secretary -->
+          {{ range where .RegularPages "Params.description" "Club Secretary" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+
+     
+         <!-- Render treasurer -->
+         {{ range where .RegularPages "Params.description" "Treasurer" }}
+         <div class="md:col-6 lg:col-4 mb-14">
+           {{ partial "components/author-card" . }}
+         </div>
+       {{ end }}
+
+
+          <!-- Render assistant treasurer -->
+          {{ range where .RegularPages "Params.description" "Assistant Treasurer" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+          {{ end }}
+
+             <!-- Render technical lead -->
+        {{ range where .RegularPages "Params.description" "Technical Lead" }}
+        <div class="md:col-6 lg:col-4 mb-14">
+          {{ partial "components/author-card" . }}
+        </div>
+      {{ end }}
+
+        <!-- Render executive -->
+        {{ range where .RegularPages "Params.description" "Executive" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+
+        
+
+     
+     
+        
+
+       
+
+      
+      </div>
+    </div>
+  </section>
+{{ end }}

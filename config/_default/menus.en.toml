@@ -1,0 +1,51 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Committee"
+url = "authors/"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+
+[[main]]
+weight = 5
+name = "Topic and Trends"
+hasChildren = true
+
+[[main]]
+parent = "Topic and Trends"
+name = "Quantum"
+url = "categories/Quantum/"
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3

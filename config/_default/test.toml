@@ -1,0 +1,25 @@
+
+[[main]]
+weight = 4
+name = "Articles"
+hasChildren = true
+
+[[main]]
+parent = "Articles"
+name = "Blog"
+url = "blog/"
+
+[[main]]
+parent = "Articles"
+name = "Contact"
+url = "contact/"
+
+[[main]]
+parent = "Articles"
+name = "Authors"
+url = "authors/"
+
+[[main]]
+parent = "Articles"
+name = "Categories"
+url = "categories/"
