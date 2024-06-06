@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Upcoming Events"
-    link: "categories/upcoming/"
+    link: "tags/upcoming/"
 
 # Features
 features:
