@@ -6,11 +6,24 @@ image: "/images/kucmc-cover.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
-Id elit dolor qui aute labore eu mollit minim consequat velit eiusmod reprehenderit sint sit. Consequat consectetur labore sit voluptate veniam anim nostrud culpa. Officia sunt eiusmod velit occaecat officia esse nisi cillum aliquip sit. Et aliqua dolore quis amet aliquip ullamco culpa minim nisi culpa eiusmod sit aliquip. Proident enim dolor id ad sunt magna occaecat ad cillum consequat proident.
 
-Nostrud amet reprehenderit sit cupidatat irure minim. Eu adipisicing aliquip id aute nostrud qui culpa esse. Adipisicing sint minim laboris mollit eu. Commodo ut labore eu velit aliqua laborum officia enim. Aute nulla in sunt exercitation. Consectetur et in veniam nulla ad amet nulla sint aliqua aliquip officia. Eiusmod sit ad aliquip esse ad exercitation magna excepteur proident sint consequat.
+Welcome to the Computational Mathematics Club at Kathmandu University, a hub for students passionate about the intersection of mathematics, computing, and innovative problem-solving. Founded with the aim of exploring the expansive fields of computational mathematics, our club is dedicated to nurturing a community of scholars, enthusiasts, and future leaders in the discipline.
 
-Ullamco aute eiusmod id qui consectetur aliquip eu quis consequat cupidatat qui aute. Ullamco nostrud occaecat incididunt esse incididunt sint qui ea. Sunt irure nostrud esse excepteur veniam laboris qui irure et anim aliquip deserunt. Proident amet ullamco laboris aute velit qui. Culpa Lorem ea sunt culpa tempor ea ex. Elit irure amet aliquip fugiat aliquip aliquip nisi pariatur. Consequat fugiat irure labore id exercitation ad eu veniam mollit velit laborum quis enim.
+## Our Mission
+Our mission is to empower members with the knowledge and tools necessary to excel in computational mathematics. We strive to foster a stimulating environment where members can engage in rigorous study, collaborative research, and intellectual exchange. Through regular meetings, guest lectures, and hands-on projects, we aim to enhance the analytical and computational skills of our members, preparing them for successful careers in academia, industry, and beyond.
+ 
+## Activities and Opportunities
 
-Eu deserunt adipisicing incididunt enim elit esse. Dolor nostrud deserunt pariatur cillum est do aliquip ipsum sit eu. Adipisicing consequat qui voluptate eu deserunt ut minim do elit officia adipisicing magna anim. Elit sunt eu irure quis reprehenderit excepteur velit laboris et laborum reprehenderit elit. Eu anim ipsum consectetur id commodo aliquip aliquip eu eiusmod ea.
+Members of the Computational Mathematics Club benefit from a variety of activities:
+
+- **Workshops and Seminars:** We organize workshops on topics such as algorithmic design, data analysis, and machine learning, facilitated by experts and practitioners in the field.
+  
+- **Research Projects:** Members have the opportunity to collaborate on research projects that tackle real-world problems using mathematical models and computational tools.
+  
+- **Networking Events:** Our club regularly hosts networking events with alumni, industry professionals, and academics, providing valuable career insights and opportunities.
+  
+- **Competitions and Challenges:** We encourage members to participate in national and international mathematics competitions to hone their skills and gain recognition for their talents.
+
+
+## Join Us
+Whether you are an undergraduate student curious about computational mathematics or a seasoned enthusiast seeking to deepen your expertise, the Computational Mathematics Club welcomes you. By joining us, you become part of a forward-thinking community that values creativity, collaboration, and the continuous pursuit of knowledge.

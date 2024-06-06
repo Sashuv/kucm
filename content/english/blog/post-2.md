@@ -2,7 +2,7 @@
 title: "Workshop on Quantum Computing and Post Quantum Cryptography"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-03-04T05:00:00Z
 image: "/images/quantum.png"
 categories: ["Workshop", "Quantum"]
 author: "Sashuv Kafle"

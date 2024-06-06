@@ -2,7 +2,7 @@
 title: "Sports Week 2024 KUCMC"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-02-14T05:00:00Z
 image: "/images/events.webp"
 categories: ["SportsCup", "Events"]
 author: "Sashuv Kafle"

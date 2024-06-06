@@ -2,9 +2,9 @@
 title: "HamroNiwas Entrepreneurship 101 Workshop"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-04-04T05:00:00Z
 image: "/images/hamroniwas.png"
-categories: ["Upcoming", "Education"]
+categories: ["Education"]
 author: "Sashuv Kafle"
 tags: ["Entrepreneurship", "HamroNiwas"]
 draft: false
