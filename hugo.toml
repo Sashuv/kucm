@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/"
+baseURL = "https://cmclub.ku.edu.np/"
 # Title of your website (required).
 title = "KUCMC"
 # Your theme name
