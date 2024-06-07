@@ -25,7 +25,7 @@ In this talk, attendees will gain a deeper understanding of how machine learning
 **Registration Form:**
 To reserve your spot for this enlightening event, please fill out the registration form below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6-0O-8xqLOKxWWXnvjkOJA5CzZ86Rpj1CmhCDF3zKLbUxBQ/viewform?embedded=true" width="1080" height="625" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdPF3HeyPhB3SrZW8CGnomgrQ1DgE9wqxF0amZYoanXqRwBeA/viewform?embedded=true" width="640" height="1405" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Don't miss this opportunity to explore the intersection of machine learning and scientific research with an esteemed expert in the field. We look forward to welcoming you to this engaging session!
 
