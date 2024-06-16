@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Upcoming Events"
-    link: "https://cmclub.ku.edu.np/tags/upcoming/"
+    link: "blog"
 
 # Features
 features:

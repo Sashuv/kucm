@@ -4,9 +4,9 @@ meta_title: ""
 description: "this is meta description"
 date: 2024-06-06T05:00:00Z
 image: "/images/Events/ai_talkshow.png"
-categories: ["Education","TalkShow"]
+categories: ["Machine Learning","Talk Show"]
 author: "Sashuv Kafle"
-tags: ["Upcoming", "MachineLearning", "AI"]
+tags: ["Upcoming", "Machine Learning", "AI"]
 draft: false
 ---
 **Event Announcement: Machine Learning for Science and Engineering Applications**

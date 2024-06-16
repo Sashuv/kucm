@@ -17,7 +17,7 @@ url = "authors/"
 weight = 3
 
 [[main]]
-name = "Blog"
+name = "Events"
 url = "blog/"
 weight = 4
 
@@ -29,8 +29,8 @@ hasChildren = true
 
 [[main]]
 parent = "Topic and Trends"
-name = "Quantum"
-url = "categories/quantum/"
+name = "Machine Learning"
+url = "categories/machine-learning/"
 
 [[main]]
 name = "Contact"
