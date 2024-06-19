@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2024-06-06T05:00:00Z
 image: "/images/Events/ai_talkshow.png"
 categories: ["Machine Learning","Talk Show"]
-author: "Sashuv Kafle"
+author: "Sashuv"
 tags: ["Upcoming", "Machine Learning", "AI"]
 draft: false
 ---
