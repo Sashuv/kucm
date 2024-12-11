@@ -7,7 +7,7 @@ date: 2024-06-19T05:00:00Z
 image: "/images/Events/math_talkshow.png"
 categories: ["Mathematics", "Scientific Computing", "Talk Show"]
 author: "Sashuv"
-tags: ["Upcoming", "Mathematics", "Scientific Computing"]
+tags: ["Mathematics", "Scientific Computing"]
 draft: false
 ---
 **Event Announcement: Difficulties of Mathematical Knowledge to Implement Inside Computer & Vice Versa**
